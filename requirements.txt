@@ -1,1 +1,4 @@
-Pillow>=8.1.1
+pymongo==4.3.3
+pymysql==1.0.2
+Scrapy==2.8.0
+wxpy==0.3.9.8
